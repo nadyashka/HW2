@@ -1,0 +1,243 @@
+   <TEI>
+   <teiHeader>
+        <fileDesc>
+            <titleStmt>
+               <title>Душенька</title>
+            </titleStmt>
+            <respStmt>
+                <persName>Надежда Шкабаро</persName>
+                <resp> Создала TEI документ, выделила персоналии и прямую речь (названий мест не обнаружила)</resp>
+            </respStmt>
+         </fileDesc>
+         <profileDesc>
+             <particDesc>
+                 <listPerson type="fictional">
+                     <person xml:id="01">    
+                         <persName>Душенька</persName> 
+                     </person>
+                      </listPerson>
+                      <listPerson type="mythical">
+                     <person xml:id="02">
+                         <persName>Орфей</persName>
+                         </person>
+                         <person xml:id="03">
+                         <persName>Аполлон</persName>
+                         </person>
+                         <person xml:id="04">
+                         <persName>Оракул</persName>
+                         </person>
+                         <person xml:id="05">
+                         <persName>Купидон</persName>
+                         </person>
+                         <person xml:id="06">
+                         <persName>Амфион</persName>
+                     </person>
+                 </listPerson>
+              </particDesc>
+          </profileDesc>
+    </teiHeader>
+    <text> 
+
+И все приятности <person xml:id="01"><persName>царевнины</persName></person> подробно,
+Которых мне пером представить не удобно;
+Вы видели тогда не сон и не мечты...
+Но здесь молчите вы... молчанье разумею.
+К изображению божественных даров
+Потребен вам и мне особый дар богов;
+Я здесь красот <person xml:id="01"><persName>ее</persName></person> описывать не смею.
+<person xml:id="01"><persName>Царевна</persName></person>, вышедши из бани наконец,
+Со удовольствием раскидывала взгляды
+На выбранны для <person xml:id="01"><persName>ней</persName></person> и платья и наряды,
+И некакой венец.
+<person xml:id="01"><persName>Ее</persName></person> одели там, как царскую особу,
+В богатейшую робу.
+Нетрудно разуметь, что для <person xml:id="01"><persName>ее</persName></person> услуг
+Горстями сыпались каменья и жемчуг,
+И всяки редкости невидимая сила,
+По слову <person xml:id="01"><persName>Душеньки</persName></person>, мгновенно приносила;
+Иль <person xml:id="01"><persName>Душенька</persName></person> тогда лишь только что помнила,
+Желаемая вещь пред <person xml:id="01"><persName>ней</persName></person> являлась вдруг;
+Пленяяся своим прекраснейшим нарядом,
+И по стенам пред <person xml:id="01"><persName>ней</persName></person> стоят великим рядом,
+Дабы краса <person xml:id="01"><persName>ее</persName></person> удвоена была.
+Увидев там себя лицом, плечом и задом,
+От головы до ног,
+Легко могла судить <person xml:id="01"><persName>царевна</persName></person> на досуге
+О будущем супруге,
+Что он, как видно, был гораздо не убог.
+Меж тем к <person xml:id="01"><persName>ее</persName></person> услуге
+В особой комнате явился стол готов;
+Приборы для стола, и ествы и напитки,
+И сласти всех родов
+Являли там вещей довольство и избытки;
+Не менее и то, что только для богов,
+В роскошнейшем жилище
+Могло служить к их пище,
+Стояло перед ней во множестве рядов;
+Иной вкусив, <person xml:id="01"><persName>она</persName></person> печали забывала,
+Другая <person xml:id="01"><persName>ей</persName></person> красот и силы придавала.
+Амуры, бегая усердие явить,
+<person xml:id="01"><persName>Хозяйки</persName></person> должности старались разделить:
+Иной во кравчих был, другой носил посуду,
+Иной уставливал, и всяк совался всюду;
+И тот считал себе за превысоку честь,
+Кому из рук своих <person xml:id="01"><persName>домова их богиня</persName></person>
+Полрюмки нектару изволила поднесть,
+И многие пред <person xml:id="01"><persName>ней</persName></person> стояли рот разиня,
+Хотя амуры в том,
+По правде, жадными отнюдь не почитались
+И боле, нежели вином,
+<person xml:id="01"><persName>Царевны</persName></person> зрением в то время услаждались.
+Меж тем над <person xml:id="01"><persName>ней</persName></person> с верхов,
+В чертогах беспечальных,
+Раздался сладкий звук орудий музыкальных
+И песен <person xml:id="01"><persName>ей</persName></person> похвальных,
+Какие мог творить лишь только бог стихов.
+Вначале райские певицы
+Воспели красоту сей новой их <person xml:id="01"><persName>царицы</persName></person>.
+Читатель знает сам, приятна ль <person xml:id="01"><persName>ей</persName></person> была
+Такая похвала;
+Но, впрочем, <person xml:id="01"><persName>Душенька</persName></person> решить не возмогла,
+Приятство ль голосов, достоинство ль скрипицы,
+Согласие ли арф, иль флейту предпочесть, —
+В искусстве все едины были духом,
+Чтоб <person xml:id="01"><persName>Душенька</persName></person> в раю
+Познала часть свою
+Прикосновением, устами, оком, слухом;
+Коль можно почитать за правду все слова,
+У греков есть молва,
+Что будто бы к сему торжественному хору
+Нарочно сысканы <person xml:id="02"><persName>Орфей</persName></person> и <person xml:id="06"><persName>Амфион</persName></person>,
+И будто, в <person xml:id="01"><persName>Душеньку</persName></person> влюбяся по разбору,
+Играл и правил там оркестром <person xml:id="03"><persName>Аполлон</persName></person>.
+Впоследок хор певиц, протяжистым манером,
+С приличным некаким размером,
+Воспел стихи, возвысив тон,
+Толико медлено, толико слуху внятно,
+И их сложение пленяло толь приятно,
+Что <person xml:id="01"><persName>Душенька</persName></person> легко слова переняла,
+Легко упомнить их могла,
+И скоро затвердила,
+И по всему двору впоследок распустила.
+Потом нескромные зефиры разнесли
+Стихи сии оттоль по всем концам земли;
+Потом же таковы и к нам они дошли:
+<speech> <said type="direct" aloud="true">«Любови все сердца причастны.
+И сами боги <person xml:id="01"><persName>ей подвластны.
+Познай ты, <person xml:id="01"><persName>Душенька</persName></person> , любовь,
+И счастие познаешь вновь».</speech> </said>
+Трикратно песня та пред  <person xml:id="01"><persName>Душенькой</persName></person>  пропета,
+И пели, наконец, <person xml:id="01"><persName>царевне</persName></person> многа лета.
+Потом одна из нимф явилась доложить,
+Что время <person xml:id="01"><persName>ей</persName></person> уже в постеле опочить
+При слове «опочить» <person xml:id="01"><persName>царевна</persName></person> покраснела
+И, как невеста, оробела,
+Однако спорить не хотела.
+Раздета  <person xml:id="01"><persName>Душенька</persName></person>; ведут <person xml:id="01"><persName>ее</persName></person> в чертог,
+И там, как надобно к покою от дорог,
+Кладут <person xml:id="01"><persName>ее</persName></person> в постель на некоем престоле
+И, поклонившись <person xml:id="01"><persName>ей</persName></person>, уходят все оттоле.
+Не знаемо отколь, тогда явился вдруг
+В невидимом лице неведомый супруг.
+А если спросят, как невидимый явился, —
+Нетрудно отвечать: явился он впотьмах
+И был в объятиях, но не был он в очах;
+Как дух или колдун он был, но не открылся.
+
+Никто не смел раскрыть завесы дел ночных.
+Не знаю, что они друг с другом говорили,
+Ни околичностей, при том какие были;
+Навеки тайна та осталась между их.
+Но только поутру приметили амуры,
+Что нимфы меж собой смеялись под тишком,
+И <person xml:id="01"><persName>гостья</persName></person>, будучи стыдлива от натуры,
+Казалась между их с завешенным ушком.
+
+Супружество могло <person xml:id="01"><persName>царевне быть приятно,
+Лишь только таинство казалось непонятно:
+Супруг у <person xml:id="01"><persName>Душеньки</persName></person>, сказать, и был и нет;
+Приехал ночью к <person xml:id="01"><persName>ней</persName></person>, уехал до рассвета,
+Без имени без лет,
+Без росту, без примет,
+И вместо должного ответа,
+Скрывая, кто он был, на <person xml:id="01"><persName>Душенькин</persName></person> вопрос
+Просил, увещевал, для некаких <person xml:id="01"><persName>ей</persName></person> гроз,
+Чтоб видеть до поры супруга не желала;
+И <person xml:id="01"><persName>Душенька</persName></person> не знала,
+С каким чудовищем иль богом ночевала,
+Неслыхан был подобный брак.
+<person xml:id="01"><persName>Царевна</persName></person>, думая и так о том и сяк,
+Развязку тайны сей в <person xml:id="04"><persName>Оракуле</persName></person> искала;
+<person xml:id="04"><persName>Оракул</persName></person> <person xml:id="01"><persName>ей</persName></person> давно супруга описал
+Страшилищем ужасным:
+Супруг с <person xml:id="04"><persName>Оракулом</persName></person> начался быть согласным,
+Как будто он себя затем и не казал.
+Хотя же <person xml:id="01"><persName>Душенька</persName></person> противно б разумела,
+Касавшись до супружня тела,
+Хотя б казалось <person xml:id="01"><persName>ей</persName></person>
+Из всех его речей,
+Но так <person xml:id="04"><persName>Оракул</persName></person> рек и так вещали боги,
+Что сей супруг <person xml:id="01"><persName>ее</persName></person> наносит всюду страх.
+Или зверины ноги,
+Иль когти на руках,
+Иль гнусную фигуру,
+Так лучше <person xml:id="01"><persName>Душеньке</persName></person> урода такова,
+Который всю страшит натуру
+Не видеть и не знать, пока <person xml:id="01"><persName>она</persName></person> жива.
+Меж тем как <person xml:id="01"><persName>Душенька</persName></person> в постеле
+Не знала, как решить о деле,
+Заря гнала ночную тень.
+И светлый вид воспринял день;
+Но свет тогда не мог забавить
+Смущенную <person xml:id="01"><persName>цареву дочь</persName></person>,
+Которая минувшу ночь
+В забвеньи не могла оставить.
+Тогда услужный сон, не дожидаясь ночи
+Поутру вновь сомкнул <person xml:id="01"><persName>ее</persName></person> прекрасны очи.
+Потом, летаючи вокруг <person xml:id="01"><persName>ее</persName></person> лица,
+Явил супруга <person xml:id="01"><persName>ей со всею красотою —
+Со стройством, нежностью, дородством, белизною,
+С румянцем краше багреца:
+Явил подобие младого <person xml:id="03"><persName>Аполлона</persName></person>,
+Иль, можно так сказать, прекрасна <person xml:id="05"><persName>Купидона</persName></person>,
+В восьмнадцать лет иль так почти,
+Что был он близко двадцати,
+И был во всей красе и славе.
+<person xml:id="01"><persName>Царевна</persName></person>, в оном сне обманута мечтой,
+Супруга чает видеть въяве,
+Хватает тень, кричит: постой!
+Призрак в восторг <person xml:id="01"><persName>ее</persName></person> приводит,
+Но сей призрак от <person xml:id="01"><persName>ней</persName></person> уходит,
+Как будто б удалялся он.
+<person xml:id="01"><persName>Она</persName></person> зовет, бежит и беглеца хватает.
+Сие движение впоследок прерывает
+<person xml:id="01"><persName>Ее</persName></person> неверный сон:
+И <person xml:id="01"><persName>Душенька</persName></person> в руках, проснувшись, ощущает,
+Наместо беглеца, <person xml:id="01"><persName>свой</persName></person> спальный балахон.
+Известно, что тогда супруг, сокрывшись тамо,
+Желал подслушивать <person xml:id="01"><persName>ее</persName></person> любовный бред,
+Но рок свиданию противился упрямо;
+<person xml:id="01"><persName>Царевна</persName></person> видела супружний только след,
+И только было то приметить <person xml:id="01"><persName>ей</persName></person> возможно,
+Что он гостил у <person xml:id="01"><persName>ней</persName></person> неложно,
+Что он в отсутствии оставил <person xml:id="01"><persName>ей</persName></person> любовь
+И что любовью сей <person xml:id="01"><persName>она</persName></person> тогда сгорала.
+<speech> <said type="direct" aloud="true">«Но кто таков был он? но кто?» </said></speech> — твердила вновь,
+И вновь тогда заснуть желала.
+И сон опять, кружась над <person xml:id="01"><persName>нею</persName></person> с тишиною,
+Спокоил мысль <person xml:id="01"><persName>ее</persName></person> приятною мечтою
+В другой, как в первый, раз.
+Не знаю, долго ли мечта сия продлилась,
+Но <person xml:id="01"><persName>Душенька</persName></person> от сна не прежде пробудилась,
+Как полдень уж прошел и после полдня час.
+
+Тогда служащие девицы всем собором
+<person xml:id="01"><persName>Царевну</persName></person> вновь одеть пришли
+И сорок платьев принесли
+Со всем к тому прибором.
+В сей день <person xml:id="01"><persName>она</persName></person> себе назначила наряд,
+Который был простее,
+Затем, что <person xml:id="01"><persName>Душенька</persName></person> спешила поскорее
+Увидеть редкости чудесных сих палат.
+</text>
+</TEI>
