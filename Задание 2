@@ -31,6 +31,9 @@
                          </person>
                          <person xml:id="06">
                          <persName>Амфион</persName>
+                         </person>
+                     <person xml:id="07">    
+                         <persName>супруг</persName> 
                      </person>
                  </listPerson>
               </particDesc>
@@ -138,11 +141,11 @@
 Кладут <person xml:id="01"><persName>ее</persName></person> в постель на некоем престоле
 И, поклонившись <person xml:id="01"><persName>ей</persName></person>, уходят все оттоле.
 Не знаемо отколь, тогда явился вдруг
-В невидимом лице неведомый супруг.
+В невидимом лице неведомый <person xml:id="07"><persName>супруг</persName></person>.
 А если спросят, как невидимый явился, —
-Нетрудно отвечать: явился он впотьмах
-И был в объятиях, но не был он в очах;
-Как дух или колдун он был, но не открылся.
+Нетрудно отвечать: явился <person xml:id="07"><persName>он</persName></person>. впотьмах
+И был в объятиях, но не был <person xml:id="07"><persName>он</persName></person>. в очах;
+Как дух или колдун <person xml:id="07"><persName>он</persName></person>. был, но не открылся.
 
 Никто не смел раскрыть завесы дел ночных.
 Не знаю, что они друг с другом говорили,
@@ -155,23 +158,23 @@
 
 Супружество могло <person xml:id="01"><persName>царевне быть приятно,
 Лишь только таинство казалось непонятно:
-Супруг у <person xml:id="01"><persName>Душеньки</persName></person>, сказать, и был и нет;
+<person xml:id="07"><persName>Супру</persName></person>г у <person xml:id="01"><persName>Душеньки</persName></person>, сказать, и был и нет;
 Приехал ночью к <person xml:id="01"><persName>ней</persName></person>, уехал до рассвета,
 Без имени без лет,
 Без росту, без примет,
 И вместо должного ответа,
-Скрывая, кто он был, на <person xml:id="01"><persName>Душенькин</persName></person> вопрос
+Скрывая, кто <person xml:id="07"><persName>он</persName></person> был, на <person xml:id="01"><persName>Душенькин</persName></person> вопрос
 Просил, увещевал, для некаких <person xml:id="01"><persName>ей</persName></person> гроз,
-Чтоб видеть до поры супруга не желала;
+Чтоб видеть до поры <person xml:id="07"><persName>супруга не желала;
 И <person xml:id="01"><persName>Душенька</persName></person> не знала,
 С каким чудовищем иль богом ночевала,
 Неслыхан был подобный брак.
 <person xml:id="01"><persName>Царевна</persName></person>, думая и так о том и сяк,
 Развязку тайны сей в <person xml:id="04"><persName>Оракуле</persName></person> искала;
-<person xml:id="04"><persName>Оракул</persName></person> <person xml:id="01"><persName>ей</persName></person> давно супруга описал
+<person xml:id="04"><persName>Оракул</persName></person> <person xml:id="01"><persName>ей</persName></person> давно <person xml:id="07"><persName>супруга описал
 Страшилищем ужасным:
-Супруг с <person xml:id="04"><persName>Оракулом</persName></person> начался быть согласным,
-Как будто он себя затем и не казал.
+<person xml:id="07"><persName>Супруг с <person xml:id="04"><persName>Оракулом</persName></person> начался быть согласным,
+Как будто <person xml:id="07"><persName>он себя затем и не казал.
 Хотя же <person xml:id="01"><persName>Душенька</persName></person> противно б разумела,
 Касавшись до супружня тела,
 Хотя б казалось <person xml:id="01"><persName>ей</persName></person>
@@ -195,32 +198,32 @@
 Тогда услужный сон, не дожидаясь ночи
 Поутру вновь сомкнул <person xml:id="01"><persName>ее</persName></person> прекрасны очи.
 Потом, летаючи вокруг <person xml:id="01"><persName>ее</persName></person> лица,
-Явил супруга <person xml:id="01"><persName>ей со всею красотою —
+Явил <person xml:id="07"><persName>супруга</persName></person> <person xml:id="01"><persName>ей</persName></person> со всею красотою —
 Со стройством, нежностью, дородством, белизною,
 С румянцем краше багреца:
 Явил подобие младого <person xml:id="03"><persName>Аполлона</persName></person>,
 Иль, можно так сказать, прекрасна <person xml:id="05"><persName>Купидона</persName></person>,
 В восьмнадцать лет иль так почти,
-Что был он близко двадцати,
+Что был <person xml:id="05"><persName>он</persName></person> близко двадцати,
 И был во всей красе и славе.
 <person xml:id="01"><persName>Царевна</persName></person>, в оном сне обманута мечтой,
-Супруга чает видеть въяве,
+<person xml:id="07"><persName>Супруга</persName></person> чает видеть въяве,
 Хватает тень, кричит: постой!
 Призрак в восторг <person xml:id="01"><persName>ее</persName></person> приводит,
 Но сей призрак от <person xml:id="01"><persName>ней</persName></person> уходит,
-Как будто б удалялся он.
+Как будто б удалялся <person xml:id="07"><persName>он</persName></person>.
 <person xml:id="01"><persName>Она</persName></person> зовет, бежит и беглеца хватает.
 Сие движение впоследок прерывает
 <person xml:id="01"><persName>Ее</persName></person> неверный сон:
 И <person xml:id="01"><persName>Душенька</persName></person> в руках, проснувшись, ощущает,
 Наместо беглеца, <person xml:id="01"><persName>свой</persName></person> спальный балахон.
-Известно, что тогда супруг, сокрывшись тамо,
+Известно, что тогда <person xml:id="07"><persName>супруг</persName></person>, сокрывшись тамо,
 Желал подслушивать <person xml:id="01"><persName>ее</persName></person> любовный бред,
 Но рок свиданию противился упрямо;
-<person xml:id="01"><persName>Царевна</persName></person> видела супружний только след,
+<person xml:id="01"><persName>Царевна</persName></person> видела <person xml:id="07"><persName>супружний</persName></person> только след,
 И только было то приметить <person xml:id="01"><persName>ей</persName></person> возможно,
-Что он гостил у <person xml:id="01"><persName>ней</persName></person> неложно,
-Что он в отсутствии оставил <person xml:id="01"><persName>ей</persName></person> любовь
+Что <person xml:id="07"><persName>он</persName></person> гостил у <person xml:id="01"><persName>ней</persName></person> неложно,
+Что <person xml:id="07"><persName>он</persName></person> в отсутствии оставил <person xml:id="01"><persName>ей</persName></person> любовь
 И что любовью сей <person xml:id="01"><persName>она</persName></person> тогда сгорала.
 <speech> <said type="direct" aloud="true">«Но кто таков был он? но кто?» </said></speech> — твердила вновь,
 И вновь тогда заснуть желала.
